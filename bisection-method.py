@@ -29,4 +29,4 @@ def zadanie1(a,b):
    pylab.show
 
 print("Zadanie 1")
-zadanie1(0.05, 0.95
+zadanie1(0.05, 0.95)
